@@ -40,7 +40,7 @@
     }
     .webgap-btn.show-mobile {
       display: block;
-      width: 100px;
+      width: 80px;
     }
   }
   .slicknav_menu {
@@ -60,32 +60,32 @@
     top: 79px;
     z-index: 9;
     background: transparent;
+    span.slicknav_menutxt {
+      display: none !important;
+    }
+    span.slicknav_icon {
+      margin: 0 !important;
+    }
+    a.slicknav_btn {
+      position: absolute;
+      top: -52px;
+      right: 8px;
+      background: #6fc7f2;
+      padding: 10px;
+      border: 2px solid #0fa1e9;
+      &:hover {
+        background: #0fa1e9;
+      }
+    }
+    ul.slicknav_nav {
+      background: #6fc7f2;
+      padding: 20px 0;
+      a:hover {
+        background: #0074ad;
+      }
+    }
   }
 
-  span.slicknav_menutxt {
-    display: none !important;
-  }
-
-  span.slicknav_icon {
-    margin: 0 !important;
-  }
-
-  a.slicknav_btn {
-    position: absolute;
-    top: -50px;
-    right: 8px;
-    background: #6fc7f2;
-    padding: 11px;
-  }
-
-  ul.slicknav_nav {
-    background: #6fc7f2;
-    padding: 20px 0;
-  }
-
-  .slicknav_nav a:hover {
-    background: #0074ad;
-  }
   // for menu end
   .container {
     max-width: 768px;
@@ -163,6 +163,9 @@
 
 // Small devices (landscape phones, 576px and up)
 @media all and (max-width: 767.98px) {
+  .header-area .logo {
+    max-width: 120px;
+  }
   .hero-area {
     .hero-img {
       max-width: inherit;
