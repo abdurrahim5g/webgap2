@@ -1,4 +1,8 @@
 $(document).ready(function () {
+  // slick nav
+  $("#menu").slicknav();
+
+  // happyUser slider
   $("#happyUser").owlCarousel({
     items: 2,
     loop: true,
