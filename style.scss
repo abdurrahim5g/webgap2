@@ -36,6 +36,10 @@ body {
   opacity: 0.9;
 }
 
+.show-mobile {
+  display: none;
+}
+
 .heading {
   max-width: 890px;
   margin: 0 auto;
@@ -61,7 +65,7 @@ body {
   .menu {
     ul {
       .nav-link {
-        font-family: Nunito Sans;
+        font-family: "Nunito Sans";
         font-style: normal;
         font-weight: 600;
         font-size: 13px;
@@ -70,7 +74,7 @@ body {
         color: #294962 !important;
         position: relative;
         padding: 10px 4px;
-        margin: 0 16px 0 0;
+        margin: 0 30px 0 0;
         &:hover {
           font-weight: 800;
         }

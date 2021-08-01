@@ -33,6 +33,16 @@
 
 // Medium devices (tablets, 768px and up)
 @media all and (max-width: 991.98px) {
+  // for menu
+  .account-login {
+    .webgap-btn {
+      display: none;
+    }
+    .webgap-btn.show-mobile {
+      display: block;
+      width: 100px;
+    }
+  }
   .container {
     max-width: 768px;
   }
