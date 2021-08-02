@@ -16,7 +16,7 @@
 
   /* line 20, responsive.scss */
   .client-area .owl-nav {
-    width: 0;
+    width: 50px;
     top: 100px;
     left: 50%;
     -webkit-transform: translateX(-50%);
@@ -239,69 +239,72 @@
   /* line 266, responsive.scss */
   .happy-user {
     padding: 60px 0 80px; }
-    /* line 269, responsive.scss */
+    /* line 268, responsive.scss */
+    .happy-user .container.p-0 {
+      padding: 0 15px !important; }
+    /* line 272, responsive.scss */
     .happy-user .heading p {
       margin-bottom: 30px;
       line-height: 1.5; }
-    /* line 274, responsive.scss */
+    /* line 277, responsive.scss */
     .happy-user .user-openione {
       padding: 30px 35px 30px 70px; }
-      /* line 276, responsive.scss */
+      /* line 279, responsive.scss */
       .happy-user .user-openione h5 {
         font-size: 16px; }
-      /* line 279, responsive.scss */
+      /* line 282, responsive.scss */
       .happy-user .user-openione p {
         font-size: 13px;
         margin: 15px 0; }
-      /* line 283, responsive.scss */
+      /* line 286, responsive.scss */
       .happy-user .user-openione:before {
         top: 30px;
         left: 20px;
         width: 35px;
         background-size: 100%; }
-    /* line 290, responsive.scss */
+    /* line 293, responsive.scss */
     .happy-user .owl-dots {
       top: 25px; }
 
-  /* line 295, responsive.scss */
+  /* line 298, responsive.scss */
   .learning-center {
     padding: 60px 0 35px; }
-    /* line 298, responsive.scss */
+    /* line 301, responsive.scss */
     .learning-center .card {
       margin: 0 0 30px; }
-      /* line 300, responsive.scss */
+      /* line 303, responsive.scss */
       .learning-center .card .card-body {
         text-align: center;
         padding: 4px 4px 20px 4px; }
-      /* line 304, responsive.scss */
+      /* line 307, responsive.scss */
       .learning-center .card h5 {
         font-size: 16px; }
-      /* line 307, responsive.scss */
+      /* line 310, responsive.scss */
       .learning-center .card p {
         font-size: 13px; }
 
-  /* line 314, responsive.scss */
+  /* line 317, responsive.scss */
   .client-area h3 {
     font-size: 24px; }
 
-  /* line 320, responsive.scss */
+  /* line 323, responsive.scss */
   .copyright .c-left ul {
     text-align: center; }
-  /* line 323, responsive.scss */
+  /* line 326, responsive.scss */
   .copyright .c-right p {
     text-align: center; }
 
-  /* line 328, responsive.scss */
+  /* line 331, responsive.scss */
   .footer-top {
     padding: 60px 0 20px;
     text-align: center; }
-    /* line 332, responsive.scss */
+    /* line 335, responsive.scss */
     .footer-top .link-group a {
       line-height: 30px; }
-    /* line 337, responsive.scss */
+    /* line 340, responsive.scss */
     .footer-top ul.address li {
       padding: 0; }
-    /* line 340, responsive.scss */
+    /* line 343, responsive.scss */
     .footer-top ul.address img {
       position: relative;
       display: inline-block;

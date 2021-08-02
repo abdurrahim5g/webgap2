@@ -27,7 +27,7 @@ $(document).ready(function () {
     items: 6,
     loop: true,
     nav: true,
-    autoplay: true,
+    // autoplay: true,
     navText: [
       "<img src='assets/images/arrow/c-arrow-left.png'>",
       "<img src='assets/images/arrow/c-arrow-right.png'>",

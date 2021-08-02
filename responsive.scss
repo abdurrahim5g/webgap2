@@ -18,7 +18,7 @@
 
   .client-area {
     .owl-nav {
-      width: 0;
+      width: 50px;
       top: 100px;
       left: 50%;
       transform: translateX(-50%);
@@ -265,6 +265,9 @@
 
   .happy-user {
     padding: 60px 0 80px;
+    .container.p-0 {
+      padding: 0 15px !important;
+    }
     .heading {
       p {
         margin-bottom: 30px;
