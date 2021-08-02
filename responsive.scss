@@ -94,16 +94,11 @@
   .container {
     max-width: 768px;
   }
-  .footer-top {
-    padding: 80px 0 40px;
-    .footer-widget {
-      margin: 0 0 30px;
-      p {
-        max-width: inherit;
-      }
-    }
-    .link-group {
-      margin: 0 0 20px;
+
+  .header-area {
+    .container {
+      width: 100%;
+      max-width: 100%;
     }
   }
 
@@ -116,6 +111,7 @@
 
   .hero-area {
     padding: 30px 0 120px;
+
     .hero-content {
       h2 {
         font-size: 40px;
@@ -163,6 +159,19 @@
       margin: 50px 0 100px;
     }
   }
+
+  .footer-top {
+    padding: 80px 0 40px;
+    .footer-widget {
+      margin: 0 0 30px;
+      p {
+        max-width: inherit;
+      }
+    }
+    .link-group {
+      margin: 0 0 20px;
+    }
+  }
 } // end
 
 // Small devices (landscape phones, 576px and up)
@@ -170,6 +179,10 @@
   // for menu
   header.header-area {
     padding: 15px 0;
+    .container {
+      width: 100%;
+      max-width: 100%;
+    }
   }
   .slicknav_menu {
     top: 70px;
@@ -224,7 +237,7 @@
   }
 
   .remote-browser {
-    padding: 60px 0 25px;
+    padding: 60px 0 10px;
     .single-item {
       h4 {
         font-size: 14px;
@@ -236,20 +249,10 @@
     }
   }
 
-  .happy-user {
-    .user-openione {
-      padding: 30px 35px 30px 90px;
-    }
-    &:before {
-      top: 30px;
-      left: 20px;
-    }
-  }
-
   .signup-area {
     text-align: center;
     .signup-text {
-      margin: 40px 0;
+      margin: 30px 0;
     }
     .webgap-btn {
       margin: 0 auto;
@@ -269,6 +272,7 @@
       }
     }
     .user-openione {
+      padding: 30px 35px 30px 70px;
       h5 {
         font-size: 16px;
       }
@@ -279,6 +283,8 @@
       &:before {
         top: 30px;
         left: 20px;
+        width: 35px;
+        background-size: 100%;
       }
     }
     .owl-dots {
@@ -287,7 +293,8 @@
   }
 
   .learning-center {
-    padding: 60px 0 70px;
+    padding: 60px 0 35px;
+
     .card {
       margin: 0 0 30px;
       .card-body {

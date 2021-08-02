@@ -89,213 +89,219 @@
   .container {
     max-width: 768px; }
 
-  /* line 97, responsive.scss */
-  .footer-top {
-    padding: 80px 0 40px; }
-    /* line 99, responsive.scss */
-    .footer-top .footer-widget {
-      margin: 0 0 30px; }
-      /* line 101, responsive.scss */
-      .footer-top .footer-widget p {
-        max-width: inherit; }
-    /* line 105, responsive.scss */
-    .footer-top .link-group {
-      margin: 0 0 20px; }
+  /* line 99, responsive.scss */
+  .header-area .container {
+    width: 100%;
+    max-width: 100%; }
 
-  /* line 110, responsive.scss */
+  /* line 105, responsive.scss */
   .remote-browser {
     padding: 80px 0 40px; }
-    /* line 112, responsive.scss */
+    /* line 107, responsive.scss */
     .remote-browser .reb-margin {
       margin-bottom: 45px; }
 
-  /* line 117, responsive.scss */
+  /* line 112, responsive.scss */
   .hero-area {
     padding: 30px 0 120px; }
-    /* line 120, responsive.scss */
+    /* line 116, responsive.scss */
     .hero-area .hero-content h2 {
       font-size: 40px; }
-    /* line 123, responsive.scss */
+    /* line 119, responsive.scss */
     .hero-area .hero-content p {
       font-size: 16px; }
 
-  /* line 130, responsive.scss */
+  /* line 126, responsive.scss */
   .signup-area p {
     font-size: 18px;
     line-height: 1.5; }
 
-  /* line 137, responsive.scss */
+  /* line 133, responsive.scss */
   .heading h3 {
     font-size: 35px; }
-  /* line 140, responsive.scss */
+  /* line 136, responsive.scss */
   .heading p {
     font-size: 16px; }
 
-  /* line 145, responsive.scss */
+  /* line 141, responsive.scss */
   .happy-user {
     padding: 60px 0 120px; }
-    /* line 147, responsive.scss */
+    /* line 143, responsive.scss */
     .happy-user .owl-dots {
       top: 40px; }
 
-  /* line 152, responsive.scss */
+  /* line 148, responsive.scss */
   .learning-center {
     padding: 60px 0 100px; }
-    /* line 155, responsive.scss */
+    /* line 151, responsive.scss */
     .learning-center .heading h3 {
       margin: 0 0 0px; }
 
-  /* line 162, responsive.scss */
+  /* line 158, responsive.scss */
   .client-area div#clientSlide {
-    margin: 50px 0 100px; } }
+    margin: 50px 0 100px; }
+
+  /* line 163, responsive.scss */
+  .footer-top {
+    padding: 80px 0 40px; }
+    /* line 165, responsive.scss */
+    .footer-top .footer-widget {
+      margin: 0 0 30px; }
+      /* line 167, responsive.scss */
+      .footer-top .footer-widget p {
+        max-width: inherit; }
+    /* line 171, responsive.scss */
+    .footer-top .link-group {
+      margin: 0 0 20px; } }
 @media all and (max-width: 767.98px) {
-  /* line 171, responsive.scss */
+  /* line 180, responsive.scss */
   header.header-area {
     padding: 15px 0; }
+    /* line 182, responsive.scss */
+    header.header-area .container {
+      width: 100%;
+      max-width: 100%; }
 
-  /* line 174, responsive.scss */
+  /* line 187, responsive.scss */
   .slicknav_menu {
     top: 70px; }
 
-  /* line 179, responsive.scss */
+  /* line 192, responsive.scss */
   .container {
     max-width: 480px; }
 
-  /* line 182, responsive.scss */
+  /* line 195, responsive.scss */
   .header-area .logo {
     max-width: 120px; }
 
-  /* line 186, responsive.scss */
+  /* line 199, responsive.scss */
   .hero-area .hero-img {
     max-width: inherit;
     text-align: center;
     margin: 20px 0 0 0; }
-  /* line 191, responsive.scss */
+  /* line 204, responsive.scss */
   .hero-area:after {
     background-position: bottom; }
-  /* line 194, responsive.scss */
+  /* line 207, responsive.scss */
   .hero-area .hero-content {
     text-align: center; }
-    /* line 196, responsive.scss */
+    /* line 209, responsive.scss */
     .hero-area .hero-content h2 {
       font-size: 25px;
       margin: 0 0 20px;
       font-weight: 600;
       line-height: 1.5; }
-    /* line 202, responsive.scss */
+    /* line 215, responsive.scss */
     .hero-area .hero-content p {
       font-size: 14px; }
-    /* line 205, responsive.scss */
+    /* line 218, responsive.scss */
     .hero-area .hero-content h2 + p + p {
       margin: 5px 0 15px; }
-    /* line 208, responsive.scss */
+    /* line 221, responsive.scss */
     .hero-area .hero-content .webgap-btn {
       margin: 30px auto; }
 
-  /* line 215, responsive.scss */
+  /* line 228, responsive.scss */
   .heading h3 {
     font-size: 20px;
     line-height: 1.5;
     font-weight: 600; }
-  /* line 220, responsive.scss */
+  /* line 233, responsive.scss */
   .heading p {
     font-size: 14px;
     margin: 15px 0 50px; }
 
-  /* line 226, responsive.scss */
+  /* line 239, responsive.scss */
   .remote-browser {
-    padding: 60px 0 25px; }
-    /* line 229, responsive.scss */
+    padding: 60px 0 10px; }
+    /* line 242, responsive.scss */
     .remote-browser .single-item h4 {
       font-size: 14px;
       margin: 7px 0; }
-    /* line 233, responsive.scss */
+    /* line 246, responsive.scss */
     .remote-browser .single-item p {
       font-size: 14px; }
 
-  /* line 240, responsive.scss */
-  .happy-user .user-openione {
-    padding: 30px 35px 30px 90px; }
-  /* line 243, responsive.scss */
-  .happy-user:before {
-    top: 30px;
-    left: 20px; }
-
-  /* line 249, responsive.scss */
+  /* line 252, responsive.scss */
   .signup-area {
     text-align: center; }
-    /* line 251, responsive.scss */
-    .signup-area .signup-text {
-      margin: 40px 0; }
     /* line 254, responsive.scss */
+    .signup-area .signup-text {
+      margin: 30px 0; }
+    /* line 257, responsive.scss */
     .signup-area .webgap-btn {
       margin: 0 auto; }
 
-  /* line 259, responsive.scss */
+  /* line 262, responsive.scss */
   .reb-margin {
     margin-bottom: 30px; }
 
-  /* line 263, responsive.scss */
+  /* line 266, responsive.scss */
   .happy-user {
     padding: 60px 0 80px; }
-    /* line 266, responsive.scss */
+    /* line 269, responsive.scss */
     .happy-user .heading p {
       margin-bottom: 30px;
       line-height: 1.5; }
-    /* line 272, responsive.scss */
-    .happy-user .user-openione h5 {
-      font-size: 16px; }
-    /* line 275, responsive.scss */
-    .happy-user .user-openione p {
-      font-size: 13px;
-      margin: 15px 0; }
-    /* line 279, responsive.scss */
-    .happy-user .user-openione:before {
-      top: 30px;
-      left: 20px; }
-    /* line 284, responsive.scss */
+    /* line 274, responsive.scss */
+    .happy-user .user-openione {
+      padding: 30px 35px 30px 70px; }
+      /* line 276, responsive.scss */
+      .happy-user .user-openione h5 {
+        font-size: 16px; }
+      /* line 279, responsive.scss */
+      .happy-user .user-openione p {
+        font-size: 13px;
+        margin: 15px 0; }
+      /* line 283, responsive.scss */
+      .happy-user .user-openione:before {
+        top: 30px;
+        left: 20px;
+        width: 35px;
+        background-size: 100%; }
+    /* line 290, responsive.scss */
     .happy-user .owl-dots {
       top: 25px; }
 
-  /* line 289, responsive.scss */
+  /* line 295, responsive.scss */
   .learning-center {
-    padding: 60px 0 70px; }
-    /* line 291, responsive.scss */
+    padding: 60px 0 35px; }
+    /* line 298, responsive.scss */
     .learning-center .card {
       margin: 0 0 30px; }
-      /* line 293, responsive.scss */
+      /* line 300, responsive.scss */
       .learning-center .card .card-body {
         text-align: center;
         padding: 4px 4px 20px 4px; }
-      /* line 297, responsive.scss */
+      /* line 304, responsive.scss */
       .learning-center .card h5 {
         font-size: 16px; }
-      /* line 300, responsive.scss */
+      /* line 307, responsive.scss */
       .learning-center .card p {
         font-size: 13px; }
 
-  /* line 307, responsive.scss */
+  /* line 314, responsive.scss */
   .client-area h3 {
     font-size: 24px; }
 
-  /* line 313, responsive.scss */
+  /* line 320, responsive.scss */
   .copyright .c-left ul {
     text-align: center; }
-  /* line 316, responsive.scss */
+  /* line 323, responsive.scss */
   .copyright .c-right p {
     text-align: center; }
 
-  /* line 321, responsive.scss */
+  /* line 328, responsive.scss */
   .footer-top {
     padding: 60px 0 20px;
     text-align: center; }
-    /* line 325, responsive.scss */
+    /* line 332, responsive.scss */
     .footer-top .link-group a {
       line-height: 30px; }
-    /* line 330, responsive.scss */
+    /* line 337, responsive.scss */
     .footer-top ul.address li {
       padding: 0; }
-    /* line 333, responsive.scss */
+    /* line 340, responsive.scss */
     .footer-top ul.address img {
       position: relative;
       display: inline-block;

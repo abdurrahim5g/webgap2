@@ -7,6 +7,7 @@ $(document).ready(function () {
     items: 2,
     loop: true,
     nav: true,
+    autoplay: true,
     navText: [
       "<img src='assets/images/arrow/arrow-left.png'>",
       "<img src='assets/images/arrow/arrow-right.png'>",
@@ -26,11 +27,11 @@ $(document).ready(function () {
     items: 6,
     loop: true,
     nav: true,
+    autoplay: true,
     navText: [
       "<img src='assets/images/arrow/c-arrow-left.png'>",
       "<img src='assets/images/arrow/c-arrow-right.png'>",
     ],
-    autoPlay: true,
     responsive: {
       0: {
         items: 2,
