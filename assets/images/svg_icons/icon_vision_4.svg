@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="49px" viewBox="0 0 52 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_vision_4</title>
+    <g id="medical-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6" transform="translate(-787.000000, -3051.000000)">
+            <g id="4" transform="translate(-2.000000, 2339.000000)">
+                <g id="item" transform="translate(737.000000, 223.000000)">
+                    <g id="icon_vision_4" transform="translate(52.348485, 489.000000)">
+                        <rect id="Rectangle-Copy-11" fill-opacity="0.06" fill="#0091FF" x="0" y="0" width="41" height="41" rx="8"></rect>
+                        <circle id="Oval" stroke="#2075B5" stroke-width="2" fill="#E4F7FF" stroke-linecap="round" stroke-linejoin="round" cx="21.6515152" cy="15" r="7"></circle>
+                        <path d="M36.6515152,44 C36.6515152,35.7157288 29.9357864,29 21.6515152,29 C13.3672439,29 6.65151515,35.7157288 6.65151515,44 C16.0398245,44 25.3080308,44 36.6515152,44 Z" id="Oval-Copy" stroke="#2075B5" stroke-width="2" fill="#E4F7FF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M36.586173,12.3090526 C41.0091568,15.8841941 45.7012388,17.4698973 50.6515152,17.107473 L50.6515152,17.107473 L50.6515152,33.0789693 C50.6515152,35.9357563 49.4811316,38.5256604 47.1873015,40.8663088 C44.8272274,43.2745532 41.3084008,45.41236 36.6512453,47.3069115 C31.9941886,45.4120922 28.4756551,43.2744024 26.1157288,40.8663088 C23.8218987,38.5256604 22.6515152,35.9357563 22.6515152,33.0789693 L22.6515152,33.0789693 L22.6515152,17.1008707 C27.6565314,17.443348 32.3043359,15.8563042 36.586173,12.3090526 Z" id="Rectangle" stroke="#2075B5" stroke-width="2" fill="#FFFFFF"></path>
+                        <polyline id="Path-19" stroke="#2075B5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="33.6515152 29.4533557 36.343725 32.4100017 40.3792608 26.4100017"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

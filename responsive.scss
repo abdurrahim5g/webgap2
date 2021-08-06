@@ -7,10 +7,10 @@
     .owl-nav button.owl-next {
       box-shadow: 0 0 5px;
       border-radius: 50%;
-      right: -7px;
+      right: 0px;
     }
     .owl-nav button.owl-prev {
-      left: -7px;
+      left: 0px;
       box-shadow: 0 0 5px;
       border-radius: 50%;
     }
@@ -162,6 +162,9 @@
 
   .footer-top {
     padding: 80px 0 40px;
+    .row.link-flex {
+      padding: 0;
+    }
     .footer-widget {
       margin: 0 0 30px;
       p {
@@ -169,8 +172,17 @@
       }
     }
     .link-group {
-      margin: 0 0 20px;
+      margin: 0 0 25px;
     }
+    .flex-one {
+      max-width: 50%;
+      flex: 0 0 50%;
+    }
+  }
+
+  .owl-next,
+  .owl-prev {
+    width: 30px;
   }
 } // end
 
@@ -347,6 +359,10 @@
         top: 5px !important;
         margin: 0 10px 0 0;
       }
+    }
+    .flex-one {
+      max-width: 100%;
+      flex: 0 0 100%;
     }
   }
 }

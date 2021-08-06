@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="13px" viewBox="0 0 15 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon__footer_mail</title>
+    <g id="medical-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1" transform="translate(-1048.000000, -4165.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="footer" transform="translate(0.000000, 3917.000000)">
+                <path d="M1048.75,248 L1062.25,248 C1062.66421,248 1063,248.32335 1063,248.722222 L1063,260.277778 C1063,260.67665 1062.66421,261 1062.25,261 L1048.75,261 C1048.33579,261 1048,260.67665 1048,260.277778 L1048,248.722222 C1048,248.32335 1048.33579,248 1048.75,248 Z M1055.04431,254.043817 L1050.01562,250 L1049,251.131823 L1055.05451,256 L1061,251.12811 L1059.97418,250.004456 L1055.0451,254.043817 L1055.04431,254.043817 Z" id="icon__footer_mail"></path>
+            </g>
+        </g>
+    </g>
+</svg>

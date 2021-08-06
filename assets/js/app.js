@@ -9,8 +9,8 @@ $(document).ready(function () {
     nav: true,
     autoplay: true,
     navText: [
-      "<img src='assets/images/arrow/arrow-left.png'>",
-      "<img src='assets/images/arrow/arrow-right.png'>",
+      "<img src='assets/images/svg_icons/slider_arrow_white.svg'>",
+      "<img src='assets/images/svg_icons/slider_arrow_white.svg'>",
     ],
     responsive: {
       0: {
@@ -29,8 +29,8 @@ $(document).ready(function () {
     nav: true,
     // autoplay: true,
     navText: [
-      "<img src='assets/images/arrow/c-arrow-left.png'>",
-      "<img src='assets/images/arrow/c-arrow-right.png'>",
+      "<img src='assets/images/svg_icons/slider_arrow_blue.svg'>",
+      "<img src='assets/images/svg_icons/slider_arrow_blue.svg'>",
     ],
     responsive: {
       0: {

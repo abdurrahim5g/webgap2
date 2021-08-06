@@ -23,9 +23,10 @@ body {
   transition: 0.2s;
   cursor: pointer;
   outline: none;
+  box-shadow: 0px 6px 12px 0px rgba(15, 161, 233, 0.26);
 
   &:hover {
-    background: #0fa1e9;
+    background: #3fb4ed;
     color: #ffffff;
   }
 }
@@ -56,7 +57,7 @@ body {
   p {
     font-size: 18px;
     line-height: 30px;
-    margin: 28px 0 85px;
+    margin: 33px 0 85px;
   }
 }
 
@@ -76,25 +77,25 @@ body {
         font-size: 13px;
         line-height: 20px;
         text-transform: uppercase;
-        color: #294962 !important;
+        color: #294962;
         position: relative;
         padding: 12px 4px;
         margin: 0 23px 0 0;
         &:hover {
-          font-weight: 800;
+          color: #008fd5;
         }
       }
       .active {
-        font-weight: 800;
-        &:before {
-          content: "";
-          position: absolute;
-          width: 100%;
-          height: 2px;
-          background: #008fd5;
-          bottom: 0;
-          left: 0;
-        }
+        color: #008fd5;
+        // &:before {
+        //   content: "";
+        //   position: absolute;
+        //   width: 100%;
+        //   height: 2px;
+        //   background: #008fd5;
+        //   bottom: 0;
+        //   left: 0;
+        // }
       }
     }
   }
@@ -134,7 +135,7 @@ body {
       font-size: 52px;
       line-height: 68px;
       color: #294962;
-      margin: 15px -1px 44px;
+      margin: 7px -1px 39px;
     }
     p {
       font-size: 18px;
@@ -144,13 +145,13 @@ body {
     }
 
     h2 + p + p {
-      margin: 26px 0 44px;
+      margin: 26px 0 48px;
     }
   }
   .hero-img {
     max-width: 507px;
     margin-left: auto;
-    margin-top: 30px;
+    margin-top: 20px;
   }
   a.webgap-btn {
     box-shadow: 0px 6px 12px rgba(15, 161, 233, 0.257812);
@@ -186,6 +187,9 @@ body {
 ==========================================================*/
 .remote-browser {
   padding: 100px 0 51px;
+  h3 {
+    margin: -5px 0 0 0;
+  }
   .row:last-child {
     max-width: 1024px;
     margin: 0 auto;
@@ -195,6 +199,9 @@ body {
     text-align: center;
     .icon-box {
       height: 110px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
     }
     h4 {
       font-family: "Nunito Sans";
@@ -224,7 +231,7 @@ body {
 /* ========= Happy user
 ==========================================================*/
 .happy-user {
-  padding: 100px 0 175px;
+  padding: 100px 0 177px;
   background: url("assets/images/background.png") no-repeat center / cover;
   .row.owl-carousel {
     margin-left: 0;
@@ -239,6 +246,7 @@ body {
     border-radius: 7px;
     border-top: 5px solid rgba(15, 161, 233, 0.6);
     position: relative;
+    margin-top: 2px;
     .user {
       margin: 0 0 0 3px;
     }
@@ -252,7 +260,7 @@ body {
     p {
       font-size: 15px;
       line-height: 26px;
-      margin: 18px 0 31px;
+      margin: 15px 0 31px;
     }
     a {
       color: rgba(23, 59, 86, 1);
@@ -265,7 +273,8 @@ body {
       position: absolute;
       width: 50px;
       height: 50px;
-      background: url("assets/images/icons/icon_quotes.png") no-repeat top left;
+      background: url("assets/images/svg_icons/icon_quotes.svg") no-repeat top
+        left;
       top: 37px;
       left: 30px;
     }
@@ -274,12 +283,12 @@ body {
     display: block !important;
     text-align: center;
     position: relative;
-    top: 63px;
+    top: 67px;
     button {
       width: 38px;
       height: 4px;
       background: #2075b5 !important;
-      box-shadow: 0px 6px 12px rgba(15, 161, 233, 0.257812);
+      box-shadow: 0px 6px 12px 0px rgba(15, 161, 233, 0.26);
       border-radius: 2px;
       border: 0 !important;
       outline: none;
@@ -305,6 +314,7 @@ body {
       right: -86px;
       position: absolute;
       outline: none;
+      transform: rotate(180deg);
     }
   }
 }
@@ -314,7 +324,7 @@ body {
 /* ========= Learning center
 ==========================================================*/
 .learning-center {
-  padding: 100px 0 130px;
+  padding: 100px 0 125px;
   position: relative;
   z-index: 9;
   &:before,
@@ -369,6 +379,10 @@ body {
     }
     a {
       color: #2394ed;
+      text-decoration: none;
+      &:hover {
+        color: #1766a5;
+      }
     }
   }
 }
@@ -379,7 +393,7 @@ body {
 ==========================================================*/
 .client-area {
   .client-slider-container {
-    max-width: 1250px;
+    max-width: 1245px;
   }
   .single-client-logo {
     max-width: 170px;
@@ -387,10 +401,17 @@ body {
     img {
       margin: 0 auto;
       width: auto !important;
+      filter: grayscale(1);
+      transition: 0.3s;
+      opacity: 0.5;
+      &:hover {
+        filter: grayscale(0);
+        opacity: 1;
+      }
     }
   }
   div#clientSlide {
-    margin: 95px 0 137px;
+    margin: 104px 0 141px;
   }
   .owl-stage {
     display: flex;
@@ -406,12 +427,21 @@ body {
       left: -45px;
       top: -6px;
       outline: none;
+      filter: grayscale(0.4);
+      &:hover {
+        filter: grayscale(0);
+      }
     }
     button.owl-next {
       right: -41px;
       position: absolute;
       outline: none;
       top: -5px;
+      transform: rotate(180deg);
+      filter: grayscale(0.4);
+      &:hover {
+        filter: grayscale(0);
+      }
     }
   }
 }
@@ -422,8 +452,12 @@ body {
 /* ========= footer area start
 ==========================================================*/
 .footer-top {
-  padding: 95px 0;
+  padding: 95px 0 104px;
   background: url("assets/images/footer-bg.png") no-repeat center / cover;
+
+  .flex-one {
+    padding: 0 15px;
+  }
 
   .footer-widget {
     .f-logo {
@@ -440,7 +474,7 @@ body {
       mix-blend-mode: normal;
       opacity: 0.8;
       max-width: 265px;
-      margin-top: 17px;
+      margin-top: 11px;
     }
   }
   .link-group {
@@ -448,15 +482,20 @@ body {
       font-family: Nunito Sans;
       font-weight: 400;
       font-size: 15px;
-      line-height: 42px;
+      line-height: 1;
       color: #ffffff;
       mix-blend-mode: normal;
       opacity: 0.7;
+      margin: 0 0 14px;
     }
     a {
       font-size: 15px;
       line-height: 40px;
       color: #ffffff;
+      text-decoration: none;
+      &:hover {
+        font-weight: 700;
+      }
     }
   }
   ul.address {
@@ -474,11 +513,16 @@ body {
       transform: translateY(-50%);
     }
     li:first-child {
-      line-height: 20px;
+      line-height: 27px;
+      margin: 23px 0 0 0;
     }
     li:first-child img {
       top: 12px;
     }
+  }
+  .row.link-flex {
+    justify-content: space-between;
+    padding: 0 15px;
   }
 }
 
@@ -487,7 +531,7 @@ body {
   background: #062034;
   li {
     display: inline-block;
-    margin: 0 10px 0 0;
+    margin: 0 42px 0 0;
   }
   a {
     font-size: 14px;

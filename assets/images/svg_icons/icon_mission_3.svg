@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="57px" viewBox="0 0 55 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_mission_3</title>
+    <g id="medical-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6" transform="translate(-283.000000, -2976.000000)">
+            <g id="4" transform="translate(-2.000000, 2339.000000)">
+                <g id="item" transform="translate(226.000000, 222.000000)">
+                    <g id="icon_mission_3" transform="translate(60.000000, 416.000000)">
+                        <rect id="Rectangle-Copy-11" fill-opacity="0.06" fill="#0091FF" x="8.65151515" y="8" width="45.3484848" height="41" rx="20.5"></rect>
+                        <path d="M40.9952734,41.6076693 C42.7050058,39.5999008 44.0433989,37.266197 44.9042268,34.7127838 M43.456871,17.9744439 C41.4859304,14.3536435 38.4805822,11.377244 34.8376762,9.44209528 M15.5537566,9.23941622 C11.5402492,11.2642567 8.26516196,14.539134 6.24005753,18.5524856 M4.87937342,34.0326206 C5.63921758,36.5705596 6.86613597,38.9067274 8.46033261,40.9413281" id="Shape" stroke="#2075B5" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <circle id="Oval" stroke="#2075B5" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" cx="25" cy="7" r="7"></circle>
+                        <polyline id="Path-19" stroke="#2075B5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="22.9699266 7 24.5 8.68036132 26.7935306 5.27035964"></polyline>
+                        <circle id="Oval-Copy-3" stroke="#2075B5" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" cx="4.5" cy="26.5" r="4.5"></circle>
+                        <circle id="Oval-Copy-4" stroke="#2075B5" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" cx="45.5" cy="26.5" r="4.5"></circle>
+                        <circle id="Oval" stroke="#2075B5" stroke-width="2" fill="#E4F7FF" stroke-linecap="round" stroke-linejoin="round" cx="25.3076923" cy="30.7435897" r="5.74358974"></circle>
+                        <path d="M37.6153846,54.5384615 C37.6153846,47.7411108 32.1050431,42.2307692 25.3076923,42.2307692 C18.5103415,42.2307692 13,47.7411108 13,54.5384615 C20.7032282,54.5384615 28.3079103,54.5384615 37.6153846,54.5384615 Z" id="Oval-Copy" stroke="#2075B5" stroke-width="2" fill="#E4F7FF" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

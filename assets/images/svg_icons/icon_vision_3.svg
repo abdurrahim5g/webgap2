@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="59px" viewBox="0 0 48 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_vision_3</title>
+    <g id="medical-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6" transform="translate(-790.000000, -2937.000000)">
+            <g id="4" transform="translate(-2.000000, 2339.000000)">
+                <g id="item" transform="translate(737.000000, 223.000000)">
+                    <g id="icon_vision_3" transform="translate(55.000000, 375.000000)">
+                        <rect id="Rectangle-Copy-11" fill-opacity="0.06" fill="#0091FF" x="0" y="0" width="45.3484848" height="41" rx="20.5"></rect>
+                        <line x1="26.110966" y1="44.4545381" x2="28.8141085" y2="45.4741398" id="Path-25-Copy" stroke="#2075B5" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <circle id="Oval-Copy-3" stroke="#2075B5" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(38.868583, 50.304895) rotate(22.000000) translate(-38.868583, -50.304895) " cx="38.8685829" cy="50.3048954" r="5.5"></circle>
+                        <line x1="26.110966" y1="30.4545381" x2="28.8141085" y2="31.4741398" id="Path-25-Copy-2" stroke="#2075B5" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(27.462537, 30.964339) scale(1, -1) translate(-27.462537, -30.964339) "></line>
+                        <line x1="14.110966" y1="24.602078" x2="14.110966" y2="27.4741398" id="Path-25-Copy-3" stroke="#2075B5" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(14.110966, 26.038109) scale(1, -1) translate(-14.110966, -26.038109) "></line>
+                        <circle id="Oval-Copy-15" stroke="#2075B5" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(39.348168, 25.500000) rotate(22.000000) translate(-39.348168, -25.500000) " cx="39.3481682" cy="25.5" r="5.5"></circle>
+                        <circle id="Oval-Copy-20" stroke="#2075B5" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(13.674847, 14.486527) scale(-1, 1) rotate(22.000000) translate(-13.674847, -14.486527) " cx="13.6748473" cy="14.4865266" r="4.21460044"></circle>
+                        <circle id="Oval-Copy-16" stroke="#2075B5" stroke-width="2" fill="#E4F7FF" stroke-linecap="round" stroke-linejoin="round" transform="translate(14.461638, 39.253892) rotate(22.000000) translate(-14.461638, -39.253892) " cx="14.4616379" cy="39.2538918" r="6.5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

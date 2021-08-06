@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="79px" height="60px" viewBox="0 0 79 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_vision_1</title>
+    <g id="medical-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6" transform="translate(-933.000000, -2640.000000)">
+            <g id="4" transform="translate(-2.000000, 2339.000000)">
+                <g id="item" transform="translate(737.000000, 223.000000)">
+                    <g id="icon_vision_1" transform="translate(199.000000, 79.000000)">
+                        <path d="M36.7062013,49.0434783 C49.0245524,49.0434783 60.1767263,42.8478261 70.162723,30.4565217 C60.1767263,18.0652174 49.0245524,11.8695652 36.7062013,11.8695652 C24.3878501,11.8695652 13.2356762,18.0652174 3.24967953,30.4565217 C13.2356762,42.8478261 24.3878501,49.0434783 36.7062013,49.0434783 Z" id="Oval-Copy-10" fill="#E4F7FF"></path>
+                        <path d="M36.7062013,49.173913 C49.0245524,49.173913 60.1767263,42.9782609 70.162723,30.5869565 C60.1767263,18.1956522 49.0245524,12 36.7062013,12 C24.3878501,12 13.2356762,18.1956522 3.24967953,30.5869565 C13.2356762,42.9782609 24.3878501,49.173913 36.7062013,49.173913 Z" id="Oval" stroke="#2075B5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M0,43 C1.92976812,44.82034 3.70735975,46.4124209 5.33277488,47.7762429 C7.48986199,49.5861699 9.37893702,50.994089 11,52 M49,58 C53.8238277,56.5477327 58.4904943,54.2143993 63,51 M72,44 C73.1005684,42.8915924 74.5591298,41.2705188 76.3756841,39.1367794" id="Shape" stroke="#2075B5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <circle id="Oval" stroke="#2075B5" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" cx="36.7062013" cy="30.4565217" r="11.1521739"></circle>
+                        <circle id="Oval-Copy-8" stroke="#2075B5" stroke-width="2" fill="#E4F7FF" stroke-linecap="round" stroke-linejoin="round" cx="36.7062013" cy="30.4565217" r="3.7173913"></circle>
+                        <line x1="62.2046936" y1="9.95071555" x2="59.4884358" y2="7" id="Path-23-Copy" stroke="#2075B5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(60.869058, 8.422865) scale(-1, 1) translate(-60.869058, -8.422865) "></line>
+                        <line x1="12.2046936" y1="9.95071555" x2="9.48843582" y2="7" id="Path-23-Copy-2" stroke="#2075B5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="35.8692447" y1="4.92060369" x2="35.7931578" y2="0" id="Path-24" stroke="#2075B5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

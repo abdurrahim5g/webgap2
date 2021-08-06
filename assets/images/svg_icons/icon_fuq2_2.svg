@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="58px" viewBox="0 0 50 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_fuq2_2</title>
+    <g id="medical-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3" transform="translate(-580.000000, -2683.000000)">
+            <g id="5" transform="translate(-205.368961, 2489.000000)">
+                <g id="item" transform="translate(753.368961, 169.000000)">
+                    <g id="icon_fuq2_2" transform="translate(32.000000, 25.000000)">
+                        <g id="Group-50" transform="translate(0.000000, 6.153135)">
+                            <rect id="Rectangle" fill="#E4F7FF" x="0" y="0" width="48.0769231" height="41" rx="2"></rect>
+                            <rect id="Rectangle-Copy-142" fill="#ADDBFF" x="31" y="17.8468647" width="12" height="3" rx="1.5"></rect>
+                            <rect id="Rectangle-Copy-91" fill="#ADDBFF" x="31" y="24.8468647" width="7" height="3" rx="1.5"></rect>
+                            <rect id="Rectangle-Copy-90" fill="#ADDBFF" x="40" y="24.8468647" width="3" height="3" rx="1.5"></rect>
+                            <rect id="Rectangle-Copy-52" stroke="#2075B5" stroke-width="2" x="1" y="1" width="48" height="39" rx="4"></rect>
+                            <polygon id="Rectangle-Copy-51" fill="#2075B5" points="2 10 50 10 50 12 2 12"></polygon>
+                            <path d="M6.11674592,5 C5.49985547,5 5,5.50502333 5,6.12829161 C5,6.7515599 5.49985547,7.25658322 6.11674592,7.25658322 C6.73318967,7.25658322 7.23349184,6.7515599 7.23349184,6.12829161 C7.23349184,5.50502333 6.73318967,5 6.11674592,5" id="Fill-9-Copy" fill="#3474A5"></path>
+                            <path d="M10.5837296,5 C9.96683915,5 9.46698368,5.50502333 9.46698368,6.12829161 C9.46698368,6.7515599 9.96683915,7.25658322 10.5837296,7.25658322 C11.2001733,7.25658322 11.7004755,6.7515599 11.7004755,6.12829161 C11.7004755,5.50502333 11.2001733,5 10.5837296,5" id="Fill-11-Copy" fill="#3474A5"></path>
+                            <path d="M15.0507133,5 C14.4338228,5 13.9339674,5.50502333 13.9339674,6.12829161 C13.9339674,6.7515599 14.4338228,7.25658322 15.0507133,7.25658322 C15.667157,7.25658322 16.1674592,6.7515599 16.1674592,6.12829161 C16.1674592,5.50502333 15.667157,5 15.0507133,5" id="Fill-13-Copy" fill="#3474A5"></path>
+                        </g>
+                        <g id="Group-3" transform="translate(19.750000, 40.992838) scale(-1, 1) rotate(-90.000000) translate(-19.750000, -40.992838) translate(2.757162, 27.242838)">
+                            <rect id="Rectangle" fill="#FFFFFF" transform="translate(11.485676, 17.000000) rotate(-90.000000) translate(-11.485676, -17.000000) " x="1.98567589" y="13.5" width="19" height="7"></rect>
+                            <path d="M13.9856759,7.5 L31.7356759,7.5 C32.9783166,7.5 33.9856759,8.61928813 33.9856759,10 C33.9856759,11.3807119 32.9783166,12.5 31.7356759,12.5 L20.0690092,12.5" id="Path-Copy-3" stroke="#2075B5" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M14.340838,27.5 L22.4856759,27.5 L22.8650047,7.5 L14.9229097,7.5 C16.3682027,5.41467589 17.1614371,3.93781433 17.3026128,3.06941532 C17.4573753,2.1174423 17.876016,1.05614482 16.5088701,0.273454703 C15.3547347,-0.387287077 14.1753062,0.149371559 12.9705848,1.88343061 C10.7377517,5.96114354 8.39637019,8 5.94644027,8 C5.62182596,8 5.27892854,8 4.91774801,8" id="Path-23" stroke="#2075B5" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M20.8801564,22.5 L22.4223642,22.5 C23.699971,22.5 24.7356759,23.6192881 24.7356759,25 C24.7356759,26.3807119 23.699971,27.5 22.4223642,27.5 C20.1053701,27.5 17.2931407,27.5 13.9856759,27.5 C11.9174162,27.5 9.27526977,26.8125039 6.05923648,25.4375117" id="Path" stroke="#2075B5" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M19.9856759,17.5 L22.8428187,17.5 C24.0262861,17.5 24.9856759,18.6192881 24.9856759,20 C24.9856759,21.3807119 24.0262861,22.5 22.8428187,22.5 L19.9856759,22.5" id="Path-Copy" stroke="#2075B5" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M19.9856759,12.5 L22.8428187,12.5 C24.0262861,12.5 24.9856759,13.6192881 24.9856759,15 C24.9856759,16.3807119 24.0262861,17.5 22.8428187,17.5 L19.9856759,17.5" id="Path-Copy-2" stroke="#2075B5" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M13.9856759,7.5 L31.7356759,7.5 C32.9783166,7.5 33.9856759,8.61928813 33.9856759,10 C33.9856759,11.3807119 32.9783166,12.5 31.7356759,12.5 L20.0690092,12.5" id="Path-Copy-3" stroke="#2075B5" stroke-width="2" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <circle id="Oval-Copy-25" fill="#2075B5" transform="translate(1.413081, 23.330245) rotate(22.000000) translate(-1.413081, -23.330245) " cx="1.41308064" cy="23.330245" r="1.08549009"></circle>
+                        </g>
+                        <line x1="33" y1="0.5" x2="37" y2="0.5" id="Path-12" stroke="#2075B5" stroke-width="2" transform="translate(35.000000, 0.500000) scale(-1, 1) translate(-35.000000, -0.500000) "></line>
+                        <line x1="16" y1="0.5" x2="27.754165" y2="0.5" id="Path-12-Copy" stroke="#2075B5" stroke-width="2" transform="translate(21.877082, 0.500000) scale(-1, 1) translate(-21.877082, -0.500000) "></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
