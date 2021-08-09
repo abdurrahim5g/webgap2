@@ -19,7 +19,7 @@
   .client-area {
     .owl-nav {
       width: 50px;
-      top: 100px;
+      top: 115px;
       left: 50%;
       transform: translateX(-50%);
     }
@@ -55,10 +55,10 @@
   }
 
   .slicknav_menu {
-    position: absolute;
+    position: fixed;
     width: 100%;
     top: 79px;
-    z-index: 9;
+    z-index: 999999;
     background: transparent;
     span.slicknav_menutxt {
       display: none !important;
@@ -68,7 +68,7 @@
     }
     a.slicknav_btn {
       position: absolute;
-      top: -52px;
+      top: -65px;
       right: 8px;
       background: #6fc7f2;
       padding: 10px;
@@ -96,6 +96,7 @@
   }
 
   .header-area {
+    padding: 10px 0;
     .container {
       width: 100%;
       max-width: 100%;
@@ -190,14 +191,14 @@
 @media all and (max-width: 767.98px) {
   // for menu
   header.header-area {
-    padding: 15px 0;
+    padding: 10px 0;
     .container {
       width: 100%;
       max-width: 100%;
     }
   }
   .slicknav_menu {
-    top: 70px;
+    top: 78px;
   }
   // menu end
 
@@ -367,5 +368,21 @@
   }
 }
 
+@media screen and (max-width: 480px) {
+  .client-area {
+    .owl-item.active.center {
+      img {
+        filter: grayscale(0);
+        opacity: 1;
+      }
+    }
+    .owl-item {
+      img {
+        // filter: grayscale(1);
+        opacity: 0;
+      }
+    }
+  }
+}
 /* =========  Responsive
 ==========================================================*/
