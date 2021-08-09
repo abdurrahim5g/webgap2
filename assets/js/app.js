@@ -74,4 +74,20 @@ $(document).ready(function () {
     offset: 0,
     repeat: "repeat-y",
   });
+
+  // auto type
+  var options = {
+    strings: [
+      "Malware",
+      "Ransomware",
+      "Website Tracking",
+      "Malicious Links",
+      "Browser Exploits",
+    ],
+    typeSpeed: 40,
+    backSpeed: 60,
+    loop: true,
+  };
+
+  var typed = new Typed(".type", options);
 });
