@@ -175,8 +175,9 @@ header.header-area.is-sticky {
 ==========================================================*/
 .signup-area {
   padding: 57px 0;
-  background: url("assets/images/background.png") no-repeat center / cover;
-  background: url("assets/images/background.png") 0 0 / cover;
+  // background: url("assets/images/background.png");
+  background: url("assets/images/background.png");
+  background-image: url("assets/images/background.png");
 
   p {
     font-weight: 600;
