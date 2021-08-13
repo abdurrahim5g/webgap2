@@ -175,8 +175,7 @@ header.header-area.is-sticky {
 ==========================================================*/
 .signup-area {
   padding: 57px 0;
-  // background: url("assets/images/background.png");
-  background: url("assets/images/background.png");
+  background: url("assets/images/background.png") no-repeat center;
   -webkit-backgound-size: cover !important;
   -o-backgound-size: cover !important;
   -moz-backgound-size: cover !important;
@@ -254,7 +253,11 @@ header.header-area.is-sticky {
 ==========================================================*/
 .happy-user {
   padding: 100px 0 177px;
-  background: url("assets/images/background.png") no-repeat center / cover;
+  background: url("assets/images/background.png") no-repeat center;
+  -webkit-backgound-size: cover !important;
+  -o-backgound-size: cover !important;
+  -moz-backgound-size: cover !important;
+  background-size: cover !important;
   .row.owl-carousel {
     margin-left: 0;
   }
