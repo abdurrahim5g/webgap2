@@ -175,7 +175,7 @@ header.header-area.is-sticky {
   -webkit-backgound-attachment: fixed !important;
   -o-backgound-attachment: fixed !important;
   -moz-backgound-attachment: fixed !important;
-  background-attachment: fixed; }
+  background-attachment: fixed !important; }
   /* line 188, style.scss */
   .signup-area p {
     font-weight: 600;
