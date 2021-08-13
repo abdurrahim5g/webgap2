@@ -180,10 +180,10 @@ header.header-area.is-sticky {
   -o-backgound-size: cover !important;
   -moz-backgound-size: cover !important;
   background-size: cover !important;
-  -webkit-backgound-attachment: fixed !important;
-  -o-backgound-attachment: fixed !important;
-  -moz-backgound-attachment: fixed !important;
-  background-attachment: fixed !important;
+  -webkit-backgound-attachment: scroll !important;
+  -o-backgound-attachment: scroll !important;
+  -moz-backgound-attachment: scroll !important;
+  background-attachment: scroll !important;
 
   p {
     font-weight: 600;
