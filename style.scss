@@ -177,7 +177,10 @@ header.header-area.is-sticky {
   padding: 57px 0;
   // background: url("assets/images/background.png");
   background: url("assets/images/background.png");
-  background-image: url("assets/images/background.png");
+  -webkit-backgound-size: cover !important;
+  -o-backgound-size: cover !important;
+  -moz-backgound-size: cover !important;
+  background-size: cover !important;
 
   p {
     font-weight: 600;
