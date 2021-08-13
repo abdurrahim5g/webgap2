@@ -66,13 +66,11 @@ $(document).ready(function () {
   // parallax
   $("#happyUserParallax").parallaxie({
     speed: 0.5,
-    offset: 0,
-    repeat: "repeat-y",
+    offset: -500,
   });
   $("#signUpParallax").parallaxie({
     speed: 0.5,
-    offset: 0,
-    repeat: "repeat-y",
+    offset: -300,
   });
 
   // auto type
