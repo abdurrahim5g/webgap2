@@ -167,15 +167,16 @@ header.header-area.is-sticky {
 /* line 176, style.scss */
 .signup-area {
   padding: 57px 0;
-  background: url("assets/images/background.png") no-repeat center/cover; }
-  /* line 180, style.scss */
+  background: url("assets/images/background.png") no-repeat center/cover;
+  background: url("assets/images/background.png") 0 0/cover; }
+  /* line 181, style.scss */
   .signup-area p {
     font-weight: 600;
     font-size: 22px;
     line-height: 34px;
     mix-blend-mode: normal;
     opacity: 0.9; }
-  /* line 187, style.scss */
+  /* line 188, style.scss */
   .signup-area .webgap-btn {
     margin: 0 0 0 auto; }
 
@@ -183,25 +184,25 @@ header.header-area.is-sticky {
 ==========================================================*/
 /* ========= remote start
 ==========================================================*/
-/* line 196, style.scss */
+/* line 197, style.scss */
 .remote-browser {
   padding: 100px 0 51px;
   background: #fff; }
-  /* line 199, style.scss */
+  /* line 200, style.scss */
   .remote-browser h3 {
     margin: -5px 0 0 0; }
-  /* line 202, style.scss */
+  /* line 203, style.scss */
   .remote-browser .row:last-child {
     max-width: 1024px;
     margin: 0 auto; }
-  /* line 207, style.scss */
+  /* line 208, style.scss */
   .remote-browser .single-item {
     text-align: center; }
-    /* line 210, style.scss */
+    /* line 211, style.scss */
     .remote-browser .single-item:hover img {
       -webkit-transform: scale(1.15);
               transform: scale(1.15); }
-    /* line 214, style.scss */
+    /* line 215, style.scss */
     .remote-browser .single-item .icon-box {
       height: 110px;
       display: -webkit-box;
@@ -213,11 +214,11 @@ header.header-area.is-sticky {
       -webkit-box-align: center;
           -ms-flex-align: center;
               align-items: center; }
-      /* line 219, style.scss */
+      /* line 220, style.scss */
       .remote-browser .single-item .icon-box img {
         -webkit-transition: 0.3s;
         transition: 0.3s; }
-    /* line 223, style.scss */
+    /* line 224, style.scss */
     .remote-browser .single-item h4 {
       font-family: "Nunito Sans";
       font-weight: bold;
@@ -227,13 +228,13 @@ header.header-area.is-sticky {
       letter-spacing: 0.7px;
       text-transform: uppercase;
       margin: 12px 0 11px; }
-    /* line 233, style.scss */
+    /* line 234, style.scss */
     .remote-browser .single-item p {
       font-size: 15px;
       line-height: 26px;
       max-width: 220px;
       margin: 0 auto; }
-  /* line 241, style.scss */
+  /* line 242, style.scss */
   .remote-browser .reb-margin {
     margin-bottom: 80px; }
 
@@ -241,17 +242,17 @@ header.header-area.is-sticky {
 ==========================================================*/
 /* ========= Happy user
 ==========================================================*/
-/* line 250, style.scss */
+/* line 251, style.scss */
 .happy-user {
   padding: 100px 0 177px;
   background: url("assets/images/background.png") no-repeat center/cover; }
-  /* line 253, style.scss */
+  /* line 254, style.scss */
   .happy-user .row.owl-carousel {
     margin-left: 0; }
-  /* line 256, style.scss */
+  /* line 257, style.scss */
   .happy-user .heading p {
     margin: 25px 0 55px; }
-  /* line 259, style.scss */
+  /* line 260, style.scss */
   .happy-user .user-openione {
     background: #ffffff;
     padding: 44px 45px 40px 123px;
@@ -261,28 +262,28 @@ header.header-area.is-sticky {
     border-top: 5px solid rgba(15, 161, 233, 0.6);
     position: relative;
     margin-top: 2px; }
-    /* line 267, style.scss */
+    /* line 268, style.scss */
     .happy-user .user-openione .user {
       margin: 0 0 0 3px; }
-    /* line 270, style.scss */
+    /* line 271, style.scss */
     .happy-user .user-openione h5 {
       font-family: Nunito Sans;
       font-style: normal;
       font-weight: bold;
       font-size: 18px;
       line-height: 20px; }
-    /* line 277, style.scss */
+    /* line 278, style.scss */
     .happy-user .user-openione p {
       font-size: 15px;
       line-height: 26px;
       margin: 15px 0 31px; }
-    /* line 282, style.scss */
+    /* line 283, style.scss */
     .happy-user .user-openione a {
       color: #173b56;
       font-weight: 600;
       font-size: 16px;
       line-height: 26px; }
-    /* line 288, style.scss */
+    /* line 289, style.scss */
     .happy-user .user-openione:before {
       content: "";
       position: absolute;
@@ -291,13 +292,13 @@ header.header-area.is-sticky {
       background: url("assets/images/svg_icons/icon_quotes.svg") no-repeat top left;
       top: 37px;
       left: 30px; }
-  /* line 299, style.scss */
+  /* line 300, style.scss */
   .happy-user .owl-dots {
     display: block !important;
     text-align: center;
     position: relative;
     top: 67px; }
-    /* line 304, style.scss */
+    /* line 305, style.scss */
     .happy-user .owl-dots button {
       width: 38px;
       height: 4px;
@@ -309,21 +310,21 @@ header.header-area.is-sticky {
       outline: none;
       margin: 0 4px;
       opacity: 0.5; }
-    /* line 315, style.scss */
+    /* line 316, style.scss */
     .happy-user .owl-dots button.active {
       background: #2075b5;
       opacity: 1; }
-  /* line 321, style.scss */
+  /* line 322, style.scss */
   .happy-user .owl-nav {
     position: absolute;
     top: calc(50% - 26px);
     width: 100%; }
-    /* line 325, style.scss */
+    /* line 326, style.scss */
     .happy-user .owl-nav button.owl-prev {
       position: absolute;
       left: -88px;
       outline: none; }
-    /* line 330, style.scss */
+    /* line 331, style.scss */
     .happy-user .owl-nav button.owl-next {
       right: -86px;
       position: absolute;
@@ -335,13 +336,13 @@ header.header-area.is-sticky {
 ==========================================================*/
 /* ========= Learning center
 ==========================================================*/
-/* line 343, style.scss */
+/* line 344, style.scss */
 .learning-center {
   padding: 100px 0 125px;
   background: #fff;
   position: relative;
   z-index: 9; }
-  /* line 348, style.scss */
+  /* line 349, style.scss */
   .learning-center:before, .learning-center:after {
     content: "";
     position: absolute;
@@ -350,51 +351,51 @@ header.header-area.is-sticky {
     left: 0;
     top: 0;
     z-index: -1; }
-  /* line 358, style.scss */
+  /* line 359, style.scss */
   .learning-center:after {
     background: url("assets/images/learning-bg-left.png") no-repeat center left; }
-  /* line 361, style.scss */
+  /* line 362, style.scss */
   .learning-center::before {
     background: url("assets/images/learning-bg-right.png") no-repeat right bottom; }
-  /* line 366, style.scss */
+  /* line 367, style.scss */
   .learning-center .heading {
     max-width: 930px; }
-    /* line 368, style.scss */
+    /* line 369, style.scss */
     .learning-center .heading h3 {
       margin-bottom: 90px; }
-  /* line 373, style.scss */
+  /* line 374, style.scss */
   .learning-center .card {
     -webkit-box-shadow: 0px 2px 14px rgba(32, 107, 152, 0.1);
             box-shadow: 0px 2px 14px rgba(32, 107, 152, 0.1);
     border-radius: 6px;
     border: 0;
     width: 100% !important; }
-    /* line 378, style.scss */
+    /* line 379, style.scss */
     .learning-center .card img {
       height: 260px;
       -o-object-fit: cover;
          object-fit: cover; }
-    /* line 382, style.scss */
+    /* line 383, style.scss */
     .learning-center .card .card-body {
       padding: 20px 31px 38px; }
-    /* line 385, style.scss */
+    /* line 386, style.scss */
     .learning-center .card h5 {
       font-family: Nunito Sans;
       font-style: normal;
       font-weight: bold;
       font-size: 18px;
       line-height: 20px; }
-    /* line 392, style.scss */
+    /* line 393, style.scss */
     .learning-center .card p {
       font-size: 15px;
       line-height: 26px;
       opacity: 0.8;
       margin: 16px 0 19px; }
-    /* line 398, style.scss */
+    /* line 399, style.scss */
     .learning-center .card a {
       color: #2394ed;
       text-decoration: none; }
-      /* line 401, style.scss */
+      /* line 402, style.scss */
       .learning-center .card a:hover {
         color: #1766a5; }
 
@@ -402,14 +403,14 @@ header.header-area.is-sticky {
 ==========================================================*/
 /* ========= client area start
 ==========================================================*/
-/* line 413, style.scss */
+/* line 414, style.scss */
 .client-area .client-slider-container {
   max-width: 1200px; }
-/* line 416, style.scss */
+/* line 417, style.scss */
 .client-area .single-client-logo {
   max-width: 170px;
   margin: 0 auto; }
-  /* line 419, style.scss */
+  /* line 420, style.scss */
   .client-area .single-client-logo img {
     margin: 0 auto;
     width: auto !important;
@@ -418,16 +419,16 @@ header.header-area.is-sticky {
     -webkit-transition: 0.3s;
     transition: 0.3s;
     opacity: 0.5; }
-    /* line 425, style.scss */
+    /* line 426, style.scss */
     .client-area .single-client-logo img:hover {
       -webkit-filter: grayscale(0);
               filter: grayscale(0);
       opacity: 1;
       cursor: pointer; }
-/* line 432, style.scss */
+/* line 433, style.scss */
 .client-area div#clientSlide {
   margin: 104px 0 141px; }
-/* line 436, style.scss */
+/* line 437, style.scss */
 .client-area .owl-stage {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -435,29 +436,29 @@ header.header-area.is-sticky {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center; }
-  /* line 439, style.scss */
+  /* line 440, style.scss */
   .client-area .owl-stage .owl-item.active {
     opacity: 1;
     visibility: visible; }
-  /* line 444, style.scss */
+  /* line 445, style.scss */
   .client-area .owl-stage .owl-item,
   .client-area .owl-stage .owl-item.active.center + .owl-item + .owl-item + .owl-item {
     opacity: 0;
     visibility: hidden;
     -webkit-transition: 0.3s;
     transition: 0.3s; }
-  /* line 452, style.scss */
+  /* line 453, style.scss */
   .client-area .owl-stage .owl-item.active.center img {
     -webkit-filter: grayscale(0);
             filter: grayscale(0);
     opacity: 1; }
-/* line 458, style.scss */
+/* line 459, style.scss */
 .client-area .owl-nav {
   display: block !important;
   position: absolute;
   top: calc(50% - 20px);
   width: 100%; }
-  /* line 463, style.scss */
+  /* line 464, style.scss */
   .client-area .owl-nav button.owl-prev {
     position: absolute;
     left: -45px;
@@ -465,11 +466,11 @@ header.header-area.is-sticky {
     outline: none;
     -webkit-filter: grayscale(0.4);
             filter: grayscale(0.4); }
-    /* line 469, style.scss */
+    /* line 470, style.scss */
     .client-area .owl-nav button.owl-prev:hover {
       -webkit-filter: grayscale(0);
               filter: grayscale(0); }
-  /* line 473, style.scss */
+  /* line 474, style.scss */
   .client-area .owl-nav button.owl-next {
     right: -41px;
     position: absolute;
@@ -479,7 +480,7 @@ header.header-area.is-sticky {
             transform: rotate(180deg);
     -webkit-filter: grayscale(0.4);
             filter: grayscale(0.4); }
-    /* line 480, style.scss */
+    /* line 481, style.scss */
     .client-area .owl-nav button.owl-next:hover {
       -webkit-filter: grayscale(0);
               filter: grayscale(0); }
@@ -488,21 +489,21 @@ header.header-area.is-sticky {
 ==========================================================*/
 /* ========= footer area start
 ==========================================================*/
-/* line 492, style.scss */
+/* line 493, style.scss */
 .footer-top {
   padding: 95px 0 104px;
   background: url("assets/images/footer-bg.png") no-repeat center/cover; }
-  /* line 496, style.scss */
+  /* line 497, style.scss */
   .footer-top .flex-one {
     padding: 0 15px; }
-  /* line 501, style.scss */
+  /* line 502, style.scss */
   .footer-top .footer-widget .f-logo {
     margin: -2px 0 0 -1px; }
-    /* line 503, style.scss */
+    /* line 504, style.scss */
     .footer-top .footer-widget .f-logo a {
       display: inline-block;
       padding: 4px 0; }
-  /* line 508, style.scss */
+  /* line 509, style.scss */
   .footer-top .footer-widget p {
     font-size: 14px;
     line-height: 26px;
@@ -511,7 +512,7 @@ header.header-area.is-sticky {
     opacity: 0.8;
     max-width: 265px;
     margin-top: 11px; }
-  /* line 519, style.scss */
+  /* line 520, style.scss */
   .footer-top .link-group h5 {
     font-family: Nunito Sans;
     font-weight: 400;
@@ -521,28 +522,28 @@ header.header-area.is-sticky {
     mix-blend-mode: normal;
     opacity: 0.7;
     margin: 0 0 14px; }
-  /* line 529, style.scss */
+  /* line 530, style.scss */
   .footer-top .link-group a {
     font-size: 15px;
     line-height: 40px;
     color: #ffffff;
     text-decoration: none;
     opacity: 0.8; }
-    /* line 535, style.scss */
+    /* line 536, style.scss */
     .footer-top .link-group a:hover {
       opacity: 1; }
-  /* line 542, style.scss */
+  /* line 543, style.scss */
   .footer-top ul.address li {
     padding: 0 0 0 30px;
     position: relative;
     line-height: 40px;
     color: #ffffff;
     font-size: 15px; }
-    /* line 549, style.scss */
+    /* line 550, style.scss */
     .footer-top ul.address li:hover img {
       -webkit-transform: scale(1.4) translate(0%, -50%);
               transform: scale(1.4) translate(0%, -50%); }
-  /* line 554, style.scss */
+  /* line 555, style.scss */
   .footer-top ul.address img {
     position: absolute;
     left: 0;
@@ -551,29 +552,29 @@ header.header-area.is-sticky {
             transform: translateY(-50%);
     -webkit-transition: 0.3s;
     transition: 0.3s; }
-  /* line 561, style.scss */
+  /* line 562, style.scss */
   .footer-top ul.address li:first-child {
     line-height: 27px;
     margin: 23px 0 0 0; }
-  /* line 565, style.scss */
+  /* line 566, style.scss */
   .footer-top ul.address li:first-child img {
     top: 12px; }
-  /* line 569, style.scss */
+  /* line 570, style.scss */
   .footer-top .row.link-flex {
     -webkit-box-pack: justify;
         -ms-flex-pack: justify;
             justify-content: space-between;
     padding: 0 15px; }
 
-/* line 575, style.scss */
+/* line 576, style.scss */
 .copyright {
   padding: 11px 0;
   background: #062034; }
-  /* line 578, style.scss */
+  /* line 579, style.scss */
   .copyright li {
     display: inline-block;
     margin: 0 20px 0 0; }
-    /* line 581, style.scss */
+    /* line 582, style.scss */
     .copyright li a {
       font-size: 14px;
       line-height: 26px;
@@ -582,10 +583,10 @@ header.header-area.is-sticky {
       opacity: 0.7;
       -webkit-transition: 0.3s;
       transition: 0.3s; }
-      /* line 588, style.scss */
+      /* line 589, style.scss */
       .copyright li a:hover {
         opacity: 1; }
-  /* line 600, style.scss */
+  /* line 601, style.scss */
   .copyright .c-right p,
   .copyright .c-right a {
     text-align: right;
@@ -593,7 +594,7 @@ header.header-area.is-sticky {
     line-height: 26px;
     color: #b4bcc2;
     mix-blend-mode: normal; }
-  /* line 612, style.scss */
+  /* line 613, style.scss */
   .copyright .c-right a:hover {
     color: #fff; }
 
